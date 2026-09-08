@@ -1,21 +1,21 @@
 <!-- markdownlint-disable MD033 -->
 
-<h1 align="center">
+<h1 align="left">
   The Mathematics and Physics of Reusable Launch Vehicles
 </h1>
 
-<p align="center">
+<p align="left">
   <strong>From the Rocket Equation to Propulsive Landing</strong>
 </p>
 
-<p align="center">
+<p align="left">
   A self-contained mathematical treatment of orbital launch, atmospheric re-entry,
   powered descent, and the economics of rocket reuse.
 </p>
 
-<p align="center">
+<p align="left">
   <a href="./main.pdf">
-    <img alt="Read the paper" src="https://img.shields.io/badge/read-the_paper-PDF-b31b1b?style=flat-square">
+    <img alt="Read the paper" src="https://img.shields.io/badge/Paper-PDF-b31b1b?style=flat-square">
   </a>
   <a href="#citation">
     <img alt="Citation" src="https://img.shields.io/badge/cite-BibTeX-4c8cbf?style=flat-square">
