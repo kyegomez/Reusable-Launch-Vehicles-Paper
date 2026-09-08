@@ -60,27 +60,23 @@ The analysis is organized around a small set of governing relationships.
 The ideal velocity increment follows from the Tsiolkovsky rocket equation:
 
 $$
-\Delta v = v_e \ln\left(\frac{m_0}{m_f}\right)
-= g_0 I_{sp}\ln\left(\frac{m_0}{m_f}\right).
+\Delta v = v_e \ln\left(\frac{m_0}{m_f}\right) = g_0 I_{sp}\ln\left(\frac{m_0}{m_f}\right).
 $$
 
 Orbital ascent adds gravity, drag, and steering losses:
 
 $$
-\Delta v_{\mathrm{required}}
-= v_{\mathrm{orbit}} + \Delta v_g + \Delta v_D
-+ \Delta v_{\mathrm{steer}} - \Delta v_{\mathrm{rotation}}.
+\Delta v_{\mathrm{required}} = v_{\mathrm{orbit}} + \Delta v_g + \Delta v_D + \Delta v_{\mathrm{steer}} - \Delta v_{\mathrm{rotation}}.
 $$
 
 For a reused booster, the economic objective becomes:
 
 $$
-\frac{C}{m_L}
-= \frac{C_B/N + C_R + C_U}{(1-\pi)m_{L,\mathrm{exp}}},
+\frac{C}{m_L} = \frac{C_B/N + C_R + C_U}{(1-\pi)m_{L,\mathrm{exp}}}.
 $$
 
-coupling flight count \(N\), refurbishment cost \(C_R\), and payload penalty
-\(\pi\) in a single measure of launch cost.
+coupling flight count $N$, refurbishment cost $C_R$, and payload penalty
+$\pi$ in a single measure of launch cost.
 
 ## Citation
 
